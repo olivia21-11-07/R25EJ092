@@ -17,3 +17,9 @@ Currently learning data structures
 Interested in web development
 
 Goal: Practise coding regularly and build projects
+
+## Projects
+
+- **C Programming Practice:** Learning programming fundamentals and solving problems using C.
+- **LeetCode Solutions:** Practising problem-solving and algorithms.
+- **Portfolio Website:** Building a personal portfolio to showcase my skills and projects.
