@@ -15,3 +15,5 @@ Goal: Build projects and contribute to open source
 Currently learning data structures
 
 Interested in web development
+
+Goal: Practise coding regularly and build projects
